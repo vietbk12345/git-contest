@@ -81,3 +81,11 @@ To submit your answer for this practical work, you will open a pull request on t
 2/ Create a commit on it that is GPG signed
 
 To submit your answer for this practical work, you will open a pull request on this project.
+
+## Topic 11 Cherry pick
+
+1/ Checkout branch **question_11**
+
+2/ Cherry pick the commit of branch **question_11-2** that adds a description to the meeting. Brian should not be part of the meeting.
+
+To submit your answer for this practical work, you will open a pull request on this project.
