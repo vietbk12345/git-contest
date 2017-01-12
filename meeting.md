@@ -1,3 +1,5 @@
+Awesome description of the meeting.
+
 # Who will join ?
 
  - Benoit
