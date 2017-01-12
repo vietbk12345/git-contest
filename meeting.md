@@ -1,3 +1,5 @@
 Who will join the meeting ?
 
-Total of attendees : 0
+ - Mistake
+
+Total of attendees : 1
