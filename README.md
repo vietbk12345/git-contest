@@ -2,6 +2,8 @@
 
 This practical work aims at revising git together. We will solve conflict, rewrite history, and perform some advanced git configuration.
 
+Each question is worth one point. The guy with the more points win the price.
+
 ## Topic 1 Rewriting history
 
 1/ Checkout branch **question_1**
