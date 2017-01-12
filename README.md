@@ -73,3 +73,11 @@ To submit your answer for this practical work, you will open a pull request on t
 1/ Merge branch **question_9_to_be_merged** into **question_9**
 
 To submit your answer for this practical work, you will open a pull request on this project.
+
+## Topic 10 Git and GPG
+
+1/ Create a branch named **question_10**
+
+2/ Create a commit on it that is GPG signed
+
+To submit your answer for this practical work, you will open a pull request on this project.
