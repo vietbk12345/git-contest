@@ -68,3 +68,8 @@ To submit your answer for this practical work, you will open a pull request on t
 
 To submit your answer for this practical work, you will open a pull request on this project.
 
+## Topic 9 Merge and conflicts
+
+1/ Merge branch **question_9_to_be_merged** into **question_9**
+
+To submit your answer for this practical work, you will open a pull request on this project.
