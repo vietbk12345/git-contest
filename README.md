@@ -50,3 +50,12 @@ To submit your answer for this practical work, you will open a pull request on t
 
 To submit your answer for this practical work, you will open a pull request on this project.
 
+## Topic 7 Create a branch and commit
+
+1/ Create a branch named **question_7**
+
+2/ Create a file named **file** with content **content**
+
+3/ Commit this file with the appropriate commit message
+
+To submit your answer for this practical work, you will open a pull request on this project.
