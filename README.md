@@ -42,4 +42,11 @@ To submit your answer for this practical work, you will open a pull request on t
 
 To submit your answer for this practical work, you will open a pull request on this project.
 
+## Topic 6 Removing useless commits
+
+1/ Checkout branch **question_6**
+
+2/ Remove the commit named **Commit to remove**
+
+To submit your answer for this practical work, you will open a pull request on this project.
 
