@@ -3,6 +3,7 @@
  - Benoit
  - Sang
  - Tuan
+ - Brian
  - Louis
 
 Total : 4
