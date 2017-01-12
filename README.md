@@ -34,3 +34,12 @@ To submit your answer for this practical work, you will open a pull request on t
 
 To submit your answer for this practical work, you will open a pull request on this project.
 
+## Topic 5 Renaming commits
+
+1/ Checkout branch **question_5**
+
+2/ Rename the last commit by removing the **RENAME ME** commit
+
+To submit your answer for this practical work, you will open a pull request on this project.
+
+
