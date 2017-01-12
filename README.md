@@ -59,3 +59,12 @@ To submit your answer for this practical work, you will open a pull request on t
 3/ Commit this file with the appropriate commit message
 
 To submit your answer for this practical work, you will open a pull request on this project.
+
+## Topic 8 Rebase and conflict
+
+1/ Checkout branch **question_8**
+
+2/ Remove the commit named **"Commit to remove because I made a mistake"**, but be carefull to keep the count of intendees correct with all other commits.
+
+To submit your answer for this practical work, you will open a pull request on this project.
+
