@@ -26,4 +26,11 @@ To submit your answer for this practical work, you will open a pull request on t
 
 To submit your answer for this practical work, you will open a pull request on this project.
 
+## Topic 4 Reordering history
+
+1/ Checkout branch **question_4**
+
+2/ Reorder the commit. the order should be file_1, file_2, file_3 then file_4
+
+To submit your answer for this practical work, you will open a pull request on this project.
 
