@@ -1,3 +1,7 @@
 # Who will join ?
 
-Total : 0
+ - Benoit
+ - Sang
+ - Tuan
+
+Total : 3
