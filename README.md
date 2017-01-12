@@ -89,3 +89,10 @@ To submit your answer for this practical work, you will open a pull request on t
 2/ Cherry pick the commit of branch **question_11-2** that adds a description to the meeting. Brian should not be part of the meeting.
 
 To submit your answer for this practical work, you will open a pull request on this project.
+
+## Topic 12 Renaming a branch
+
+1/ Rename branch **question_12-rename** into **question_12**
+
+To submit your answer for this practical work, you will open a pull request on this project.
+
