@@ -12,9 +12,17 @@ To submit your answer for this practical work, you will open a pull request on t
 
 ## Topic 2 Modifying last commit
 
-1/ Checkout branch **question 2**
+1/ Checkout branch **question_2**
 
 2/ Modify the last commit to directly have the content of **file** being **GOOD**
+
+To submit your answer for this practical work, you will open a pull request on this project.
+
+## Topic 3 Modifying any commit
+
+1/ Checkout branch **question_3**
+
+2/ Modify the first commit to directly have the content of **file_1** being **GOOD**
 
 To submit your answer for this practical work, you will open a pull request on this project.
 
